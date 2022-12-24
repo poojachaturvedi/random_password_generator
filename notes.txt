@@ -3,3 +3,7 @@ npx react-app app-name
 create index.js
 import react,reactDom and app mdule 
 then render the app
+
+
+in app js we write the App class and export it
+compinentDidMount()--to mount the component
