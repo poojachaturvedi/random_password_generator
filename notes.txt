@@ -1,0 +1,5 @@
+npx react-app app-name 
+
+create index.js
+import react,reactDom and app mdule 
+then render the app
